@@ -1,0 +1,18 @@
+﻿/**
+ * 分页条
+ * @作者 田应平
+ * @创建时间 2019-07-07 0:15
+ * @QQ号码 444141300
+ * @官网 http://www.fwtai.com
+*/
+@charset "UTF-8";
+.clear{clear:both;}
+.pagingToolbar{height:30px;margin-top:20px;}
+.pagingToolbar label{line-height:30px; display:block; float:left;}
+.pagingToolbar label span{margin:0 2px;}
+.fanYe{display:block;float:left; margin-left:30px;}
+.fanYe li{display:block;float:left;}
+.fanYe li a{width:60px;height:28px;line-height:28px;font-size:14px;border:1px solid #ddd; display: inline-block; margin: 0px 2px; padding:3px 0px 0px 0px;text-align:center;vertical-align:center;text-decoration:none;}
+.fanYe li a:hover{background:#b2b2b2;color:#fff;}
+.available{background:#43aaf7;color:#fff;}
+.disabled{background:#b2b2b2;color:#fff;}

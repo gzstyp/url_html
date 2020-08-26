@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+	<categories>
+		<category id="graphic">Graphic Design</category>
+		<category id="web">Web Design</category>
+		<category id="photo">Photography</category>
+	</categories>
+	<items>
+		<item>
+			<thumbnail>images/portfolio1.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project One Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue.
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio2.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Two Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio3.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web,graphic</category>
+			<description><![CDATA[
+			<h4>Project Three Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio4.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio5.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web,graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio6.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web,graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio7.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web,graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio8.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio9.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio10.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>graphic,web,photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio11.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web,graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio12.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio13.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio14.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio15.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio16.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio17.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio18.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio19.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>graphic</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio2.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>web</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio3.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio5.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio6.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+		<item>
+			<thumbnail>images/portfolio7.jpg</thumbnail>
+			<preview>images/preview.jpg</preview>
+			<category>photo</category>
+			<description><![CDATA[
+			<h4>Project Description And Details</h4>
+			<hr /><hr/>
+			<p>Nam convallis imperdiet pretium. Integer commodo malesuada purus, a hendrerit erat aliquet in. Nunc eget odio augue. 
+			</p>
+			]]></description>
+		</item>
+	
+	</items>
+</portfolio>

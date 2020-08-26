@@ -1,0 +1,114 @@
+﻿/*消息盒子*/
+.msg-box{
+    position: relative;
+}
+/*succeed*/
+.msg-succeed{
+    background-repeat:no-repeat;
+    background-image: url(/images/icons/icon.png);
+    background-position:0px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+/*warn*/
+.msg-warn{
+    background: url(/images/icons/icon.png) no-repeat -33px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+/*error*/
+.msg-error{
+    background: url(/images/icons/icon.png) no-repeat -67px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+/*help*/
+.msg-help{
+    background: url(/images/icons/icon.png) no-repeat -105px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+
+/*提示信息*/
+.msg-text{
+    font-size:14px;
+    margin-left:36px;
+}
+
+----------------------------------------------------------------------
+/*消息盒子*/
+.msg-box{
+    position: relative;
+}
+
+/*succeed*/
+.msg-succeed{
+    background: url(/images/icons/icons.png) no-repeat 0px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+/*warn*/
+.msg-warn{
+    background: url(/images/icons/icons.png) no-repeat -33px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+/*error*/
+.msg-error{
+    background: url(/images/icons/icons.png) no-repeat -66px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+
+/*help*/
+.msg-help{
+    background: url(/images/icons/icons.png) no-repeat -100px 0px;
+    outline:none;
+    display:inline-table;
+    height:34px;
+    width:34px;
+    text-align:center;
+    vert-align:middle;
+    position: absolute;
+}
+
+/*提示信息*/
+.msg-text{
+    font-size:14px;
+    margin-left:36px;
+}
